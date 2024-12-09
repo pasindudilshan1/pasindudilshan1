@@ -1,6 +1,8 @@
-# Hey there, I'm Vehan! 👋
+# Hey there, I'm <span style="color: #9b59b6; font-weight: bold;">Vehan Rajintha</span>! 👋
 
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Welcome to my GitHub profile!
+
+<img src="https://avatars.githubusercontent.com/u/63950650?v=4" alt="Vehan Rajintha" align="right" width="200" style="border-radius: 50%;">
 
 ## A Bit About Me
 - 🎂 I'm a 21-year-old software developer
@@ -11,23 +13,13 @@
 
 ## My GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vehanrajintha&show_icons=true&theme=tokyonight" alt="Vehan's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vehanrajintha&show_icons=true&theme=tokyonight" alt="Vehan's GitHub Stats" style="animation: fadeIn 1s ease-in-out;" />
 </div>
 
 ## Top Languages Used
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vehanrajintha&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vehanrajintha&layout=pie&theme=tokyonight" alt="Top Languages" style="animation: fadeIn 1s ease-in-out;" />
 </div>
-
-| Language | Percentage |
-| --- | --- |
-| Python | 84.62% |
-| HTML | 10.24% |
-| Kotlin | 1.40% |
-| C++ | 1.08% |
-| CSS | 1.04% |
-| PHP | 0.90% |
-| TypeScript | 0.29% |
 
 ## Let's Connect! 🤝
 - 📧 Email: it236464360@my.sliit.lk
