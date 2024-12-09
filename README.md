@@ -6,7 +6,7 @@
 
 ## A Bit About Me
 - 🎂 I'm a 21-year-old software developer
-- 👨‍💻 Currently pursuing a Computer Systems and Network Engineering degree at SLIIT
+- 👨‍💻 Currently Studying Bachelor of Information Technology at UCSC
 - 🌐 Passionate about HTML, CSS, JavaScript, Python, Hacking, and Web development
 - 🤝 Active member of KCD,and FOSS communities
 - 🔍 Looking to collaborate on building websites, web apps, Linux tools, and server operations
