@@ -7,8 +7,8 @@
 ## A Bit About Me
 - 🎂 I'm a 21-year-old software developer
 - 👨‍💻 Currently pursuing a Computer Systems and Network Engineering degree at SLIIT
-- 🌐 Passionate about HTML, CSS, JavaScript, C++, Hacking, and Web development
-- 🤝 Active member of KCD, GDG, and AICSL communities
+- 🌐 Passionate about HTML, CSS, JavaScript, Python, Hacking, and Web development
+- 🤝 Active member of KCD,and FOSS communities
 - 🔍 Looking to collaborate on building websites, web apps, Linux tools, and server operations
 
 ## My GitHub Stats
@@ -22,7 +22,7 @@
 </div>
 
 ## Let's Connect! 🤝
-- 📧 Email: 
+- 📧 Email: pasindupremarathna11@gmail.com
 - 📸 Instagram:
 - 📱 WhatsApp:
 
