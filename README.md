@@ -1,23 +1,6 @@
 <h1 align="center">
-  <span style="
-    background: linear-gradient(270deg, #ff4ecd, #00ffff, #ff4ecd);
-    background-size: 600% 600%;
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    animation: rgbText 8s ease infinite;
-    display: inline-block;
-  ">
-    Hey there, I'm Pasindu Premarathna! 👋
-  </span>
+  🌈✨ <span style="color:#9b59b6;"><b>Hey there, I'm Pasindu Premarathna! 👋</b></span> ✨🌈
 </h1>
-
-<style>
-@keyframes rgbText {
-  0% { background-position: 0% 50%; }
-  50% { background-position: 100% 50%; }
-  100% { background-position: 0% 50%; }
-}
-</style>
 
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Welcome to my GitHub profile!
 
