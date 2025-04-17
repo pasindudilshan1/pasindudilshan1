@@ -17,11 +17,11 @@
 
 ## 🔥 Featured Projects
 ### 📌 [POSystem](https://github.com/pasindudilshan1/POSystem)
-A comprehensive Point of Sale system built with Java to enhance retail operations.
+A comprehensive Point of Sale system built with Java to enhance retail operations.  
 [![POSystem](https://github-readme-stats.vercel.app/api/pin/?username=pasindudilshan1&repo=POSystem&theme=tokyonight)](https://github.com/pasindudilshan1/POSystem)
 
 ### 📌 [Site-IT-Department](https://github.com/pasindudilshan1/Site-IT-Department)
-A static website created for the IT Department to showcase services and team info.
+A static website created for the IT Department to showcase services and team info.  
 [![Site-IT-Department](https://github-readme-stats.vercel.app/api/pin/?username=pasindudilshan1&repo=Site-IT-Department&theme=tokyonight)](https://github.com/pasindudilshan1/Site-IT-Department)
 
 ---
@@ -31,10 +31,14 @@ A static website created for the IT Department to showcase services and team inf
   <img src="https://github-readme-stats.vercel.app/api?username=pasindudilshan1&show_icons=true&theme=tokyonight" alt="Pasindu's GitHub Stats" />
 </div>
 
-## 📈 Top Languages
+---
+
+## 📈 My Most Used Languages (Manually Curated)
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pasindudilshan1&langs_count=6&theme=tokyonight" alt="Top Languages" />
+  <img src="https://skillicons.dev/icons?i=java,python,html,css,js&theme=light" alt="Languages I Use Most" />
 </div>
+
+> 📝 *Note: I mostly work with Java, Python, and HTML.*
 
 ---
 
@@ -50,6 +54,12 @@ A static website created for the IT Department to showcase services and team inf
 ### Currently Learning
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Data Visualization](https://img.shields.io/badge/Data%20Visualization-FE7A16?style=for-the-badge&logo=chartdotjs&logoColor=white)
+
 
 ---
 
