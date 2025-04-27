@@ -4,6 +4,7 @@
 
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Welcome to my GitHub profile!
 <img src="https://avatars.githubusercontent.com/u/146967638?s=400&u=bee07b75c9d4cb2992f06693769a315a82726e69&v=4" alt="pasindudilshan1" align="right" width="200" style="border-radius: 50%;">
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=hu1man&label=Profile%20views&color=0e75b6&style=flat" alt="pasindudilshan1" /> </p>
 
 ## 🧑‍💻 A Bit About Me
 - 🎂 21-year-old software developer  
