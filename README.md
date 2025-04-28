@@ -34,7 +34,7 @@ A static website created for the IT Department to showcase services and team inf
 
 ---
 
-## 📈 My Most Used Languages (Manually Curated)
+## 📈 My Most Used Languages 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,python,html,css,js&theme=light" alt="Languages I Use Most" />
 </div>
