@@ -60,6 +60,7 @@ A static website created for the IT Department to showcase services and team inf
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Data Visualization](https://img.shields.io/badge/Data%20Visualization-FE7A16?style=for-the-badge&logo=chartdotjs&logoColor=white)
+<img src="https://tryhackme-badges.s3.amazonaws.com/PasinduDilshan.png" alt="Your Image Badge" />
 
 
 ---
