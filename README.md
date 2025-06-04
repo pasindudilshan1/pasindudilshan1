@@ -3,16 +3,38 @@
 </h1>
 
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Welcome to my GitHub profile!
-<img src="https://avatars.githubusercontent.com/u/146967638?s=400&u=bee07b75c9d4cb2992f06693769a315a82726e69&v=4" alt="pasindudilshan1" align="right" width="200" style="border-radius: 50%;">
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hu1man&label=Profile%20views&color=0e75b6&style=flat" alt="pasindudilshan1" /> </p>
 
-## 🧑‍💻 A Bit About Me
-- 🎂 21-year-old software developer  
-- 👨‍🎓 Studying **Bachelor of Information Technology at UCSC**  
-- 💻 Passionate about **Java Development, Web Technologies, Linux Tools, Cybersecurity, and Server Operations**  
-- 🌱 Always learning and exploring new technologies  
-- 🤝 Active contributor in **KCD and FOSS communities**  
-- 🚀 Looking to collaborate on **Java applications, Linux tools, and full-stack web projects**
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> About Me
+
+<img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+
+### I'm a 21-year-old Software Developer and Tech Enthusiast!
+
+- 🎓 Pursuing my **Bachelor of Information Technology at UCSC**
+- 💡 Passionate about solving complex problems with elegant solutions
+- 🔥 Core interests: **Java Development, Web Technologies, Linux Tools & Cybersecurity**
+- 🌱 Currently expanding my knowledge in **Python, React, and Angular**
+- 🛠️ Building projects that make a difference in people's lives
+- 🤝 Active contributor in **KCD and FOSS communities**
+- 📚 Lifelong learner committed to continuous improvement
+- 🚀 Looking to collaborate on **innovative applications and full-stack projects**
+
+### Find me around the web 🌎
+
+<a href="https://www.linkedin.com/in/pasindu-premarathna-22888b314">
+  <img align="left" alt="Pasindu's LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.datacamp.com/portfolio/premaraas22017">
+  <img align="left" alt="Pasindu's DataCamp" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/datacamp.svg" />
+</a>
+<a href="https://www.facebook.com/Pasindu-Dilshan">
+  <img align="left" alt="Pasindu's Facebook" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
+<br><br>
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em>I love connecting with different people! Let's share knowledge and grow together!</em>
 
 ---
 
@@ -62,14 +84,18 @@ A static website created for the IT Department to showcase services and team inf
 ![Data Visualization](https://img.shields.io/badge/Data%20Visualization-FE7A16?style=for-the-badge&logo=chartdotjs&logoColor=white)
 <img src="https://tryhackme-badges.s3.amazonaws.com/PasinduDilshan.png" alt="Your Image Badge" />
 
-
 ---
 
 ## 🤝 Let's Connect!
 - 📧 Email: **pasindupremarathna11@gmail.com**
 - 🔗 [LinkedIn](https://www.linkedin.com/in/pasindu-premarathna-22888b314)
 - 🌐 [Facebook](https://www.facebook.com/Pasindu-Dilshan)
+- 📊 [DataCamp Portfolio](https://www.datacamp.com/portfolio/premaraas22017)
 
 ---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 
 💬 **Feel free to connect or drop a message — I'm always open to discussing Java development, web technologies, or new collaboration opportunities!** 🚀
