@@ -3,7 +3,7 @@
 </h1>
 
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Welcome to my GitHub profile! </br>
-<p align="center" > <img  src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" /> </p>
+<p align="center" > <img  height="270px"  src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" /> </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hu1man&label=Profile%20views&color=0e75b6&style=flat" alt="pasindudilshan1" /> </p>
 
