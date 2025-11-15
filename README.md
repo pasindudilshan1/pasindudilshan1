@@ -90,7 +90,7 @@ A static website created for the IT Department to showcase services and team inf
 ## 🤝 Let's Connect!
 - 📧 Email: **pasindupremarathna11@gmail.com**
 - 🔗 [LinkedIn](https://www.linkedin.com/in/pasindu-premarathna-22888b314)
-- 🌐 [Facebook](https://www.facebook.com/Pasindu-Dilshan)
+- 🌐 [Facebook]([https://www.facebook.com/Pasindu-Dilshan](https://www.facebook.com/profile.php?id=100052448302147))
 - 📊 [DataCamp Portfolio](https://www.datacamp.com/portfolio/premaraas22017)
 
 ---
