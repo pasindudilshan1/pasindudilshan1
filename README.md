@@ -85,7 +85,9 @@ philosophy: "Keep learning, keep building — the journey never stops."
 **Comprehensive Point of Sale System**  
 A complete Java-based POS application designed to streamline retail operations with inventory management, sales tracking, and customer management features.
 
-[![POSystem](https://github-readme-stats.vercel.app/api/pin/?username=pasindudilshan1&repo=POSystem&theme=tokyonight&hide_border=true)](https://github.com/pasindudilshan1/POSystem)
+<a href="https://github.com/pasindudilshan1/POSystem">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pasindudilshan1&repo=POSystem&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="POSystem"/>
+</a>
 
 ---
 
@@ -93,7 +95,9 @@ A complete Java-based POS application designed to streamline retail operations w
 **IT Department Website**  
 A modern, responsive static website showcasing IT department services, team information, and resources with clean design and smooth user experience.
 
-[![Site-IT-Department](https://github-readme-stats.vercel.app/api/pin/?username=pasindudilshan1&repo=Site-IT-Department&theme=tokyonight&hide_border=true)](https://github.com/pasindudilshan1/Site-IT-Department)
+<a href="https://github.com/pasindudilshan1/Site-IT-Department">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pasindudilshan1&repo=Site-IT-Department&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="Site-IT-Department"/>
+</a>
 
 </div>
 
@@ -102,19 +106,25 @@ A modern, responsive static website showcasing IT department services, team info
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pasindudilshan1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pasindudilshan1&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+  
+<a href="https://github.com/pasindudilshan1">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pasindudilshan1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1b27"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pasindudilshan1&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=1a1b27"/>
+</a>
+
 </div>
 
 <div align="center">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pasindudilshan1&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pasindudilshan1&theme=tokyonight&hide_border=true&background=1a1b27" alt="GitHub Streak"/>
+</a>
 
 </div>
 
 <div align="center">
   
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pasindudilshan1&theme=tokyonight)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pasindudilshan1&theme=tokyonight" alt="Profile Summary"/>
 
 </div>
 
@@ -124,7 +134,7 @@ A modern, responsive static website showcasing IT department services, team info
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=pasindudilshan1&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-trophy.vercel.app/?username=pasindudilshan1&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub Trophies"/>
 
 </div>
 
@@ -134,7 +144,7 @@ A modern, responsive static website showcasing IT department services, team info
 
 <div align="center">
 
-[![Pasindu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pasindudilshan1&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pasindudilshan1&theme=tokyo-night&hide_border=true&bg_color=1a1b27" alt="Contribution Graph"/>
 
 </div>
 
@@ -175,13 +185,13 @@ I'm always excited to connect with fellow developers, discuss innovative ideas, 
 
 ### 💭 Quote of the Day
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 
 ---
 
 ### 👀 Profile Views
 
-![](https://komarev.com/ghpvc/?username=pasindudilshan1&color=00D9FF&style=for-the-badge)
+<img src="https://komarev.com/ghpvc/?username=pasindudilshan1&color=00D9FF&style=for-the-badge" alt="Profile Views"/>
 
 ---
 
