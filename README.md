@@ -17,38 +17,45 @@
 
 ```yaml
 name: Pasindu Premarathna
-role: Software Developer & Tech Enthusiast
+role: Software Developer & Data Scientist
 education: BSc. Information Technology @ UCSC
 age: 21
 location: Sri Lanka 🇱🇰
 focus:
   - Java Development
+  - Data Science & Analytics
+  - Machine Learning
   - Web Technologies
-  - Linux Tools
-  - Cybersecurity
+  - AI & LLMs
+  - Linux Tools & Cybersecurity
 learning:
-  - Python
+  - Python Data Science Stack
   - React & Angular
   - Node.js
-  - Data Visualization
+  - Advanced ML Algorithms
+  - ETL Pipelines
+  - RAG Applications
 communities:
   - KCD (Kubernetes Community Days)
   - FOSS Contributor
 philosophy: "Keep learning, keep building — the journey never stops."
 ```
 
-💡 I'm passionate about building **scalable applications** and crafting **impactful solutions** that solve real-world problems. As an active contributor in open-source communities, I believe in the power of collaboration and continuous learning.
+💡 I'm passionate about building **scalable applications** and crafting **data-driven solutions** that solve real-world problems. From developing intelligent AI systems to analyzing complex datasets, I thrive on transforming raw data into actionable insights. As an active contributor in open-source communities, I believe in the power of collaboration and continuous learning.
 
 ---
 
 ## 💼 What I'm Up To
 
 🎓 **Studying** Information Technology at University of Colombo School of Computing  
-🔨 **Building** full-stack applications with modern technologies  
-🌱 **Learning** advanced Python, React ecosystem, and cloud technologies  
-🤝 **Collaborating** on innovative open-source projects  
-🔐 **Exploring** cybersecurity and ethical hacking  
-📚 **Sharing** knowledge through tech communities and events
+🔨 **Building** full-stack applications and ML models with modern technologies  
+📊 **Analyzing** complex datasets to extract meaningful insights and patterns  
+🤖 **Developing** AI-powered applications using LLMs and RAG architectures  
+🌱 **Learning** advanced Python data science, React ecosystem, and cloud technologies  
+🤝 **Collaborating** on innovative open-source projects and data science challenges  
+⚡ **Engineering** ETL pipelines for efficient data processing and transformation  
+🔐 **Exploring** cybersecurity, ethical hacking, and secure coding practices  
+📚 **Sharing** knowledge through tech communities, events, and open-source contributions
 
 ---
 
@@ -68,12 +75,78 @@ philosophy: "Keep learning, keep building — the journey never stops."
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
+### Data Science & ML
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### AI & LLMs
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+
 ### Tools & Technologies
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+---
+
+## 🎯 Areas of Expertise
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 AI & Machine Learning
+- Machine Learning Model Development
+- Natural Language Processing (NLP)
+- RAG (Retrieval-Augmented Generation)
+- Local LLM Implementation
+- Predictive Analytics
+
+</td>
+<td width="50%" valign="top">
+
+### 📊 Data Science & Analytics
+- Data Analysis & Visualization
+- Statistical Modeling
+- ETL Pipeline Development
+- Data Cleaning & Preprocessing
+- Business Intelligence
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 💻 Full-Stack Development
+- Java Enterprise Applications
+- Web Application Development
+- RESTful API Design
+- Database Management
+- System Architecture
+
+</td>
+<td width="50%" valign="top">
+
+### 🔐 Additional Skills
+- Linux System Administration
+- Cybersecurity Best Practices
+- Version Control (Git)
+- Agile Development
+- Open Source Contribution
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -81,22 +154,62 @@ philosophy: "Keep learning, keep building — the journey never stops."
 
 <div align="center">
 
-### 📌 [POSystem](https://github.com/pasindudilshan1/POSystem)
-**Comprehensive Point of Sale System**  
-A complete Java-based POS application designed to streamline retail operations with inventory management, sales tracking, and customer management features.
+### 🧠 [Analyzing Students Mental Health](https://github.com/pasindudilshan1/Analyzing-Students-Mental-Health)
+**Data Analytics & Visualization**  
+Comprehensive data analysis project examining mental health patterns in students using Python, Pandas, and visualization libraries to uncover insights and trends.
 
-<a href="https://github.com/pasindudilshan1/POSystem">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pasindudilshan1&repo=POSystem&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="POSystem"/>
+<a href="https://github.com/pasindudilshan1/Analyzing-Students-Mental-Health">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pasindudilshan1&repo=Analyzing-Students-Mental-Health&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="Analyzing Students Mental Health"/>
 </a>
 
 ---
 
-### 📌 [Site-IT-Department](https://github.com/pasindudilshan1/Site-IT-Department)
-**IT Department Website**  
-A modern, responsive static website showcasing IT department services, team information, and resources with clean design and smooth user experience.
+### 🛒 [SmartCart](https://github.com/pasindudilshan1/SmartCart)
+**Intelligent Shopping System**  
+AI-powered shopping cart application featuring automated checkout, product recognition, and seamless payment integration for enhanced retail experience.
 
-<a href="https://github.com/pasindudilshan1/Site-IT-Department">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pasindudilshan1&repo=Site-IT-Department&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="Site-IT-Department"/>
+<a href="https://github.com/pasindudilshan1/SmartCart">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pasindudilshan1&repo=SmartCart&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="SmartCart"/>
+</a>
+
+---
+
+### ⚡ [Department of Energy ETL Pipeline](https://github.com/pasindudilshan1/Powering-Data-for-the-Department-of-Energy---Building-an-ETL-Pipeline)
+**Data Engineering & ETL**  
+Production-ready ETL pipeline for processing and transforming energy department data, featuring automated data extraction, cleaning, and loading workflows.
+
+<a href="https://github.com/pasindudilshan1/Powering-Data-for-the-Department-of-Energy---Building-an-ETL-Pipeline">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pasindudilshan1&repo=Powering-Data-for-the-Department-of-Energy---Building-an-ETL-Pipeline&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="ETL Pipeline"/>
+</a>
+
+---
+
+### 📚 [Library Management System](https://github.com/pasindudilshan1/Library_Management_System_Project)
+**Full-Stack Application**  
+Complete library management solution with book cataloging, member management, borrowing system, and automated notifications built with modern web technologies.
+
+<a href="https://github.com/pasindudilshan1/Library_Management_System_Project">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pasindudilshan1&repo=Library_Management_System_Project&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="Library Management System"/>
+</a>
+
+---
+
+### 🤖 [LocalGPT](https://github.com/pasindudilshan1/LocalGPT)
+**Private AI Document Chat**  
+Secure, local document interaction system using LLMs. Chat with your documents privately without data leaving your device, featuring RAG architecture and GPU acceleration.
+
+<a href="https://github.com/pasindudilshan1/LocalGPT">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pasindudilshan1&repo=LocalGPT&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="LocalGPT"/>
+</a>
+
+---
+
+### 🏠 [House Price Predictor](https://github.com/pasindudilshan1/hprice-predictor)
+**Machine Learning Model**  
+Advanced ML model for real estate price prediction using regression algorithms, feature engineering, and data preprocessing to deliver accurate property valuations.
+
+<a href="https://github.com/pasindudilshan1/hprice-predictor">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pasindudilshan1&repo=hprice-predictor&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="House Price Predictor"/>
 </a>
 
 </div>
@@ -199,15 +312,22 @@ I'm always excited to connect with fellow developers, discuss innovative ideas, 
 
 ```javascript
 const pasindu = {
-  code: ["Java", "Python", "JavaScript"],
+  code: ["Java", "Python", "JavaScript", "SQL"],
   technologies: {
     frontEnd: ["React", "Angular", "HTML", "CSS"],
     backEnd: ["Node.js", "PHP"],
-    databases: ["MySQL", "PostgreSQL"],
-    tools: ["Git", "Linux", "VS Code"]
+    dataScience: ["Pandas", "NumPy", "Scikit-learn", "Matplotlib"],
+    ai: ["LangChain", "HuggingFace", "RAG", "LLMs"],
+    databases: ["MySQL", "PostgreSQL", "ChromaDB"],
+    tools: ["Git", "Linux", "VS Code", "Jupyter", "Docker"]
   },
-  currentlyLearning: "Advanced React patterns & System Design",
-  funFact: "I debug with console.log() and I'm not ashamed! 😄"
+  currentFocus: [
+    "Machine Learning Models",
+    "ETL Pipeline Development", 
+    "AI-Powered Applications",
+    "Data Analytics & Visualization"
+  ],
+  funFact: "I debug with console.log() and print() statements, and I'm not ashamed! 😄"
 };
 ```
 
@@ -220,5 +340,12 @@ const pasindu = {
 **⭐ From [pasindudilshan1](https://github.com/pasindudilshan1)**
 
 *"The best way to predict the future is to create it."*
+
+---
+
+### 📌 Quick Stats
+
+![](https://img.shields.io/github/followers/pasindudilshan1?style=social)
+![](https://img.shields.io/github/stars/pasindudilshan1?style=social)
 
 </div>
