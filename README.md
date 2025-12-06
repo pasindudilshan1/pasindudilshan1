@@ -158,19 +158,11 @@ philosophy: "Keep learning, keep building — the journey never stops."
 **Data Analytics & Visualization**  
 Comprehensive data analysis project examining mental health patterns in students using Python, Pandas, and visualization libraries to uncover insights and trends.
 
-<a href="https://github.com/pasindudilshan1/Analyzing-Students-Mental-Health">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pasindudilshan1&repo=Analyzing-Students-Mental-Health&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="Analyzing Students Mental Health"/>
-</a>
-
 ---
 
 ### 🛒 [SmartCart](https://github.com/pasindudilshan1/SmartCart)
 **Intelligent Shopping System**  
 AI-powered shopping cart application featuring automated checkout, product recognition, and seamless payment integration for enhanced retail experience.
-
-<a href="https://github.com/pasindudilshan1/SmartCart">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pasindudilshan1&repo=SmartCart&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="SmartCart"/>
-</a>
 
 ---
 
@@ -178,19 +170,11 @@ AI-powered shopping cart application featuring automated checkout, product recog
 **Data Engineering & ETL**  
 Production-ready ETL pipeline for processing and transforming energy department data, featuring automated data extraction, cleaning, and loading workflows.
 
-<a href="https://github.com/pasindudilshan1/Powering-Data-for-the-Department-of-Energy---Building-an-ETL-Pipeline">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pasindudilshan1&repo=Powering-Data-for-the-Department-of-Energy---Building-an-ETL-Pipeline&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="ETL Pipeline"/>
-</a>
-
 ---
 
 ### 📚 [Library Management System](https://github.com/pasindudilshan1/Library_Management_System_Project)
 **Full-Stack Application**  
 Complete library management solution with book cataloging, member management, borrowing system, and automated notifications built with modern web technologies.
-
-<a href="https://github.com/pasindudilshan1/Library_Management_System_Project">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pasindudilshan1&repo=Library_Management_System_Project&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="Library Management System"/>
-</a>
 
 ---
 
@@ -198,19 +182,11 @@ Complete library management solution with book cataloging, member management, bo
 **Private AI Document Chat**  
 Secure, local document interaction system using LLMs. Chat with your documents privately without data leaving your device, featuring RAG architecture and GPU acceleration.
 
-<a href="https://github.com/pasindudilshan1/LocalGPT">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pasindudilshan1&repo=LocalGPT&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="LocalGPT"/>
-</a>
-
 ---
 
 ### 🏠 [House Price Predictor](https://github.com/pasindudilshan1/hprice-predictor)
 **Machine Learning Model**  
 Advanced ML model for real estate price prediction using regression algorithms, feature engineering, and data preprocessing to deliver accurate property valuations.
-
-<a href="https://github.com/pasindudilshan1/hprice-predictor">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pasindudilshan1&repo=hprice-predictor&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="House Price Predictor"/>
-</a>
 
 </div>
 
@@ -219,25 +195,19 @@ Advanced ML model for real estate price prediction using regression algorithms, 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  
-<a href="https://github.com/pasindudilshan1">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pasindudilshan1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1b27"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pasindudilshan1&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=1a1b27"/>
-</a>
+
+<!-- GitHub Stats Card -->
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=pasindudilshan1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1b27&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9"/>
+
+<!-- Top Languages Card -->
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=pasindudilshan1&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00D9FF&text_color=c9d1d9"/>
 
 </div>
 
 <div align="center">
-  
-<a href="https://git.io/streak-stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pasindudilshan1&theme=tokyonight&hide_border=true&background=1a1b27" alt="GitHub Streak"/>
-</a>
 
-</div>
-
-<div align="center">
-  
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pasindudilshan1&theme=tokyonight" alt="Profile Summary"/>
+<!-- GitHub Streak Stats -->
+<img src="https://streak-stats.demolab.com/?user=pasindudilshan1&theme=tokyonight&hide_border=true&background=1a1b27&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak"/>
 
 </div>
 
@@ -248,16 +218,6 @@ Advanced ML model for real estate price prediction using regression algorithms, 
 <div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=pasindudilshan1&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub Trophies"/>
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pasindudilshan1&theme=tokyo-night&hide_border=true&bg_color=1a1b27" alt="Contribution Graph"/>
 
 </div>
 
@@ -330,10 +290,6 @@ const pasindu = {
   funFact: "I debug with console.log() and print() statements, and I'm not ashamed! 😄"
 };
 ```
-
----
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 ---
 
