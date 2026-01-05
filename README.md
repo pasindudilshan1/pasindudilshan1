@@ -22,7 +22,7 @@ education: BSc. Information Technology @ UCSC
 age: 22
 location: Sri Lanka 🇱🇰
 focus:
-  - Java Development
+  - C#, ASP.Net , Java Development
   - Data Science & Analytics
   - Machine Learning
   - Web Technologies
