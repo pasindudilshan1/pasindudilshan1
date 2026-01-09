@@ -22,7 +22,7 @@ education:
   - BSc. Information Technology @ UCSC
   - BBM (Hons) Accounting Information Systems @ University of Kelaniya
 experience: 1+ years in software development
-location: Negombo, Sri Lanka 🇱🇰
+location: Colombo, Sri Lanka 🇱🇰
 current_role: Software Developer Trainee @ AlgotechSys
 focus:
   - C#, ASP.NET MVC, Web API Development
