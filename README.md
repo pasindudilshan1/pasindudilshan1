@@ -2,7 +2,7 @@
 
 # Hi there, I'm Pasindu Premarathna 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=.NET+Developer+%7C+Data+Analyst;BSc.+IT+%40+UCSC+%7C+BBM+%40+UoK;Full-Stack+Developer;Data+Engineering+Enthusiast;Always+learning%2C+always+building)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=.NET+Developer+%7C+Data+Analyst;Aspiring+AI+Engineering;BSc.+IT+%40+UCSC+%7C+BBM+%40+UoK;Full-Stack+Developer;Data+Engineering+Enthusiast;Always+learning%2C+always+building)](https://git.io/typing-svg)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.pasindupremarathna.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pasindu-premarathna-22888b314)
