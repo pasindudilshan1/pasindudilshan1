@@ -17,7 +17,7 @@
 
 ```yaml
 name: Pasindu Premarathna
-role: .NET Developer & Data Analyst
+role: .NET Developer & AI Engineer
 education: 
   - BSc. Information Technology @ UCSC
   - BBM (Hons) Accounting Information Systems @ University of Kelaniya
